@@ -9,7 +9,6 @@ ase.adserver.snapads.com
 asia-southeast1-gcp.api.snapchat.com
 aws-cf.api.snapchat.com
 aws-proxy-gcp.api.snapchat.com
-aws.api.snapchat.com
 aws.duplex.snapchat.com
 cognac-prod.appspot.com
 europe-west1-aws-acc.api.snapchat.com
